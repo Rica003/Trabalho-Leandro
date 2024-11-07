@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <h1>Bem Vindo ao Ricardo Agro's</h1>
+        <h1>Bem Vindo ao Ricardo Agro's e Trabalho Leandro</h1>
     </header>
     <main>
         <section id="intro">
